@@ -9,6 +9,9 @@ contributor:
     agent_name: Roberts, Margaret
     gutenberg_agent_id: '54646'
     url: http://www.gutenberg.org/2009/agents/54646
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '54644'
     url: http://www.gutenberg.org/2009/agents/54644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68186#Insect-life-Souvenirs-of-a-naturalist
 gutenberg_issued: '2022-05-27'
 identifiers:
   gutenberg: '68186'
